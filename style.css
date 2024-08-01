@@ -1,0 +1,19 @@
+div{
+    height: 201px;
+    width: 500px;
+    background-color: aqua;
+    border-width: 5px;
+    border-style: solid;
+    border-color: black;
+    border-left-color: bisque;
+    border-radius: 50px;
+    padding-top: 10px;
+    padding-left: 10px;
+    margin-bottom: 25px;
+}
+h1{
+    border: 2px dashed green;
+    color: brown;
+
+    border-radius: 50px;
+}
